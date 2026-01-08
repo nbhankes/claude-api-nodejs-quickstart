@@ -27,7 +27,7 @@ This will install:
 Create a `.env` file in the project root and add your Anthropic API key:
 
 ```bash
-ANTHROPIC_API_KEY=sk-ant-api03-your-actual-api-key-here
+ANTHROPIC_API_KEY=your-actual-api-key-here
 ```
 
 **To get your API key:**
@@ -42,7 +42,7 @@ ANTHROPIC_API_KEY=sk-ant-api03-your-actual-api-key-here
 
 ## Running the Application
 
-Execute the script with:
+While in the project root, execute the script with:
 
 ```bash
 node src/index.js
