@@ -1,0 +1,14 @@
+{
+    "name": "agent-practice",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Agent practice project",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "@anthropic-ai/sdk": "^0.32.0",
+        "dotenv": "^16.4.5"
+    }
+}
